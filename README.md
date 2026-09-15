@@ -83,9 +83,3 @@ Create a `.env` file (backend) and `firebase_options.dart` (Flutter apps) with y
 2. Citizen app shows the truck moving live on the map
 3. A proximity notification fires when the truck nears the citizen's zone
 4. Admin dashboard updates route coverage and fleet status in real time
-
-## Team / Hackathon
-Built as a submission for the **Gen AI Academy APAC** hackathon.
-
-## License
-MIT
